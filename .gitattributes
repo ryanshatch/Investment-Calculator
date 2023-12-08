@@ -1,2 +1,1 @@
-*.* linguist-language=c++
-*.* linguist-language=C++
+* linguist-language=C++
